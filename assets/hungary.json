@@ -1,0 +1,7 @@
+{
+  "class": "com.bb2.game.Dictionary",
+    "map": {
+      "KeyHello": "Szia",
+      "KeyRain": "Esik mint az állat !"
+    }
+}

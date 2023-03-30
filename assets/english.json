@@ -1,0 +1,7 @@
+{
+  "class": "com.bb2.game.Dictionary",
+    "map":{
+      "KeyHello": "Hello",
+      "KeyRain": "It's a rain day !"
+    }
+}
